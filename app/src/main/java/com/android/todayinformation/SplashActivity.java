@@ -56,6 +56,7 @@ public class SplashActivity extends AppCompatActivity {
             public void onFinish() {
                 mTvTimer.setText("跳过");
 
+
             }
         });
         timer.start();
